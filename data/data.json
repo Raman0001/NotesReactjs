@@ -1,3 +1,9 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": "81796e07-2a05-4249-8b68-7038eac8aba6",
+      "checked": false,
+      "item": "read data"
+    }
+  ]
 }
